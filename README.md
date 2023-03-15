@@ -1,4 +1,4 @@
-# UFO-Challenge-
+# Browsable User Web Pages for UFO Sighting Data 
 
 Overview of Project: 
 The purpose is to create a webpage using Javascript and HTML, to present the data of UFO sightings, and also create custom dropdown menus that allow users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
